@@ -8,7 +8,7 @@
 
 ### 📫 Conecte-se comigo:
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucassanttana25/" target="_blank">
+  <a href="www.linkedin.com/in/lucas-santana-473643199" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:lucassantanaalves@gmail.com">
