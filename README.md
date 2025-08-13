@@ -23,14 +23,14 @@
 <p align="left">
   <strong>Frontend:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
   </a>
 </p>
 
 <p align="left">
   <strong>Backend:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sql,php,java" />
+    <img src="https://skillicons.dev/icons?i=python,postgresql,php,java" />
   </a>
 </p>
 
