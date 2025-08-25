@@ -52,7 +52,7 @@
     <p><i><strong>Tecnologias:</strong> Python, Pandas, FastAPI, Java, Android nativo, Docker</i></p>
   </div>
   <div>
-    <h3><a href="https://github.com/lucassanttana25/alertacriptoweb" target="_blank">Monitoramento de Ativos na B3</a></h3>
+    <h3><a href="https://github.com/lucassanttana25/alertacriptoweb" target="_blank">Alert.</a></h3>
     <p>Script para extrair e acompanhar o desempenho de ações e outros ativos listados na bolsa de valores brasileira (B3).</p>
     <p><i><strong>Tecnologias:</strong> Python, yfinance, Matplotlib, React, FastAPI</i></p>
   </div>
