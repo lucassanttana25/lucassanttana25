@@ -30,7 +30,7 @@
 <p align="left">
   <strong>Backend:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c#,java,python,postgresql,php" />
+    <img src="https://skillicons.dev/icons?i=java,C,python,postgresql,php" />
   </a>
 </p>
 
