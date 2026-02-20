@@ -30,14 +30,14 @@
 <p align="left">
   <strong>Backend:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgresql,php,java" />
+    <img src="https://skillicons.dev/icons?i=c#,java,sql,python,postgresql,php" />
   </a>
 </p>
 
 <p align="left">
   <strong>Ferramentas e Outros:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=gitlab,github,docker,figma" />
   </a>
 </p>
 
