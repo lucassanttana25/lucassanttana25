@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Santana! 👋
 
-Desenvolvedor Backend focado no ecossistema **.NET** e **Java**e na criação de soluções fullstack modernas. Atualmente, atuo como **Trainee em C# & Java na Arpia Tecnologia** e graduando em **Gestão da Informação** na Universidade Federal de Uberlândia (UFU).
+Desenvolvedor Backend focado no ecossistema **.NET** & **Java** e na criação de soluções fullstack modernas. Atualmente, atuo como **Trainee em C# & Java na Arpia Tecnologia** e graduando em **Gestão da Informação** na Universidade Federal de Uberlândia (UFU).
 
 ---
 
